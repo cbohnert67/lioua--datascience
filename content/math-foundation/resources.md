@@ -49,7 +49,7 @@ So, whether you're just starting or looking to reinforce your mathematical found
 
      ➡️ [Math Playground](https://www.stemvillage.com/blog/top-ten-best-math-learning-resources)
 
-10. CK-12: CK-12 offers free online math lessons and resources for students at all grade levels. It provides step-by-step explanations, interactive lessons, and practice tests.
+* 10. CK-12: CK-12 offers free online math lessons and resources for students at all grade levels. It provides step-by-step explanations, interactive lessons, and practice tests.
 
     ➡️ [CK-12](https://www.stemvillage.com/blog/top-ten-best-math-learning-resources)
 

@@ -29,9 +29,9 @@ So, whether you're just starting or looking to reinforce your mathematical found
 
      ➡️ [Desmos](https://www.teachthought.com/pedagogy/teaching-math-online/)
 
-*5. . Mathplanet: Mathplanet is an online math learning platform that offers video classes, written content, and exercises. It covers topics aligned with the US math curriculum and standardized exams.
+* 5. Mathplanet: Mathplanet is an online math learning platform that offers video classes, written content, and exercises. It covers topics aligned with the US math curriculum and standardized exams.
 
-  ➡️ [Mathplanet](https://www.boredteachers.com/post/the-best-online-math-resources-for-all-grade-levels)
+    ➡️ [Mathplanet](https://www.boredteachers.com/post/the-best-online-math-resources-for-all-grade-levels)
 
 * 6. Art of Problem Solving: Art of Problem Solving provides math classes and resources for elementary, middle, and high school students. It offers interactive problems, videos, and community forums.
 

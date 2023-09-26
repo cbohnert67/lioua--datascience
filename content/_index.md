@@ -1,5 +1,5 @@
 ---
-title: ✍️ Un parcours Data Science !
+title: ✍️ Un parcours Data Science
 date: 2022-09-24
 toc: false
 

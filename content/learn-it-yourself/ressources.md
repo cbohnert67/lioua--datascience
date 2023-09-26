@@ -4,7 +4,7 @@ linktitle: Resources
 date: '2019-05-05T00:00:00+01:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 Unleash your full learning potential with the best online study skills resources. Elevate your studying game, achieve your goals, and thrive in the digital age of learning. Let's begin the journey to excellence with a comprehensive list of 10 online resources, including free and paid courses, tutorials, and blogs, for learning study skills!

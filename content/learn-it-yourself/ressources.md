@@ -44,7 +44,7 @@ Unleash your full learning potential with the best online study skills resources
 
 8. Shovel App Blog: The Shovel App Blog offers articles on studying effectively, including tips on creating a study plan, using the 80/20 principle, and avoiding academic probation. It also discusses techniques such as timeboxing and the Pomodoro Technique.
 
-    ➡️ [8](https://shovelapp.io/blog/)
+    ➡️ [Shovel App Blog](https://shovelapp.io/blog/)
 
 9. Feedspot Study Hacks Blogs: Feedspot features a list of 15 best study hacks blogs and websites, including Study With Jess, Lisa's Study Guides, WaysToStudy, and Study To Success. These blogs cover topics such as study tips, exam preparation strategies, and effective time management.
 

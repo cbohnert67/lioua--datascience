@@ -1,4 +1,11 @@
-Here is a compiled list of the top 10 books recommended for learning study skills:
+---
+title: Reading list for improving your study skills
+linktitle:  Reading List
+date: '2019-05-05T00:00:00+01:00'
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 3
+---
 
 1. [Make It Stick by Henry Roediger, Mark McDaniel, and Peter Brown](https://examstudyexpert.com/books-about-studying-and-learning/): This book emphasizes effective learning techniques such as spaced retrieval practice, rather than ineffective methods like highlighting and cramming. It also provides real-life stories to illustrate the concepts and encourages the practical application of effective learning techniques[^1^].
 

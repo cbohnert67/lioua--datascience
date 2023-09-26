@@ -1,6 +1,6 @@
 ---
-title: Task ideas for improving your study skills
-linktitle:  Task Ideas
+title: 🛠️ Activity ideas for improving your study skills
+linktitle:  Activity Ideas
 date: '2019-05-05T00:00:00+01:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)

@@ -22,7 +22,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-languageCode: fr-fr
+languageCode: en-us
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

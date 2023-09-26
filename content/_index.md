@@ -4,7 +4,7 @@ date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/banner.png
+  filename: covers/banner.jpg
 ---
 
 Welcome to our revolutionary platform dedicated to learning data science!

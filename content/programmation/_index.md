@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-title: Programmation
-linktitle: Programmation
-summary: Apprendre à programmer
+title: 💻 Programmation
+linktitle: 💻 Programmation
+summary: Apprendre à programmer avec les meilleurs langages.
 weight: 1
 # icon: computer
 # icon_pack: fas

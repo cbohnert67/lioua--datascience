@@ -9,7 +9,7 @@ appearance:
   theme_day: Apogee
   theme_night: Apogee
   font: Mr Robot
-  font_size: m
+  font_size: S
 
 # SEO
 
@@ -33,9 +33,9 @@ marketing:
 
 header:
   navbar:
-    enable: false
-    align: l
-    show_logo: true
+    enable: true
+    align: c
+    show_logo: false
     show_language: false
     show_day_night: true
     show_search: true

@@ -1,5 +1,5 @@
 ---
-title: 🛠️ Activity ideas for improving your study skills
+title: 🛠️ Activity ideas for improving your Foundational Mathematics
 linktitle:  Activity Ideas
 date: '2019-05-05T00:00:00+01:00'
 

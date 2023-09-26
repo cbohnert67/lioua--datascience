@@ -4,7 +4,7 @@ date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/banner.jpg
+  filename: covers/banner2.png
 ---
 
 Bienvenue sur ce site dédié à l'apprentissage de la data science !

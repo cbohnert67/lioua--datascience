@@ -4,7 +4,7 @@ date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/Logo Liouaï Data Science (1000 × 200 px).png
+  filename: covers/science-des-données.jpg
 ---
 
 Bienvenue sur ce site dédié à l'apprentissage de la data science !

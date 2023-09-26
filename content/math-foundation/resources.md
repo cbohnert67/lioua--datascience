@@ -1,3 +1,11 @@
+---
+title: 📚 A comprehensive list of 10 online resources
+linktitle: Online Resources
+date: '2019-05-05T00:00:00+01:00'
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 2
+--- 
 
 Embarking on a journey to master foundational mathematics has never been easier, thanks to the wealth of online resources available at your fingertips. Whether you're a student seeking to excel in your coursework, a professional looking to sharpen your skills, or someone simply eager to explore the world of mathematics, this curated list of the top 10 online resources is your gateway to mathematical excellence.
 

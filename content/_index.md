@@ -4,8 +4,8 @@ date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+  filename: covers/Logo Liouaï Data Science (1000 × 200 px).png
+  caption: Liouaï Data Science
 ---
 
 Welcome to the _Second Brain_ template!

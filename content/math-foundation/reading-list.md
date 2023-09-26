@@ -1,5 +1,5 @@
 ---
-title: 📚 Reading list for improving your study skills
+title: 📚 Reading list for improving your Foundational Mathematics
 linktitle:  Reading List
 date: '2019-05-05T00:00:00+01:00'
 

@@ -15,23 +15,23 @@ So, whether you're just starting or looking to reinforce your mathematical found
 
 1. Preply: Preply is an online platform that connects you with certified math tutors who provide personalized 1-to-1 lessons according to your learning level, objectives, and availability.
   
-        ➡️[Preply](https://preply.com/en/blog/best-math-learning-websites/)
+   ➡️[Preply](https://preply.com/en/blog/best-math-learning-websites/)
    
 3. Khan Academy: Khan Academy offers thousands of free math lessons and practice exercises for learners of all ages and skill levels. The lessons are categorized by grade level and cover various math topics.
 
-       ➡️[Khan Academy](https://preply.com/en/blog/best-math-learning-websites/)
+   ➡️[Khan Academy](https://preply.com/en/blog/best-math-learning-websites/)
    
 5. IXL Math: IXL Math offers a wide range of interactive math lessons, practice questions, and quizzes. It covers math skills for students in kindergarten up to grade 12.
 
-       ➡️[IXL Math](https://www.weareteachers.com/best-math-websites/)
+   ➡️[IXL Math](https://www.weareteachers.com/best-math-websites/)
    
 7. Desmos: Desmos is a free online graphing calculator that can help you graph functions, plot data, and evaluate equations. It also provides math examples and interactive tools.
 
-       ➡️[Desmos](https://www.teachthought.com/pedagogy/teaching-math-online/)
+   ➡️[Desmos](https://www.teachthought.com/pedagogy/teaching-math-online/)
    
 9. Mathplanet: Mathplanet is an online math learning platform that offers video classes, written content, and exercises. It covers topics aligned with the US math curriculum and standardized exams.
 
-      ➡️[Mathplanet](https://www.boredteachers.com/post/the-best-online-math-resources-for-all-grade-levels)
+   ➡️[Mathplanet](https://www.boredteachers.com/post/the-best-online-math-resources-for-all-grade-levels)
    
 11. Art of Problem Solving: Art of Problem Solving provides math classes and resources for elementary, middle, and high school students. It offers interactive problems, videos, and community forums.
 

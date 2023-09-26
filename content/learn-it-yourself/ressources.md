@@ -10,6 +10,11 @@ weight: 1
 
 Here is a comprehensive list of 10 online resources, including free and paid courses, tutorials, and blogs, for learning study skills:
 
+
+
+
+
+
 1. Udemy: Udemy offers a variety of study skills courses taught by top-rated instructors. Their courses cover topics such as speed reading, time management, and effective note-taking. [1](https://www.udemy.com/topic/study-skills/)
 
 2. Coursera: Coursera partners with universities and organizations to provide a wide range of courses, including "Study Skills for University Success." This course is part of the "Essential English for University Success" specialization and covers important skills such as time management and effective reading and note-taking. [2](https://www.coursera.org/learn/study-skills-for-university-success)

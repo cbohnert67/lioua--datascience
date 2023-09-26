@@ -1,6 +1,6 @@
 ---
 title: Roadmap
-linktitle: Roadmap
+linktitle:  A roadmap for Independent Learning
 date: '2019-05-05T00:00:00+01:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -8,9 +8,6 @@ weight: 1
 ---
 
 Embarking on a journey of independent learning is a powerful endeavor that empowers individuals to take control of their education, cultivate critical skills, and adapt to an ever-changing world. This roadmap serves as your guide, offering a structured approach to acquiring the essential skills and mindset necessary for self-directed learning. From assessing your strengths to building a network of like-minded learners, this roadmap will help you navigate the exciting path of lifelong, independent learning. Whether you're a student, a professional, or an aspiring polymath, embrace the journey, and unlock your potential through the art of self-learning.
-
-##  A roadmap for Independent Learning
-
 
 **I. Introduction**
    * A. Importance of Independent Learning

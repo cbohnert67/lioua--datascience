@@ -1,5 +1,5 @@
 ---
-title: ✍️ Liouaï Data Science
+title: Liouaï Data Science
 date: 2022-09-24
 toc: false
 ---

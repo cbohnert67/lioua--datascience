@@ -130,25 +130,25 @@ With a solid foundation in arithmetic and basic mathematical concepts, it's time
 
 Linear equations are the cornerstone of algebra and are used to represent relationships between variables in a straight line. Here's how to tackle this fundamental aspect of algebra:
 
-- **Understanding Linear Equations:** Learn what linear equations are and how they are expressed in the form of \(ax + b = c\), where \(a\), \(b\), and \(c\) are constants, and \(x\) is the variable.
+- **Understanding Linear Equations:** Learn what linear equations are and how they are expressed in the form of $ax + b = c$, where $a$, $b$, and $c$ are constants, and $x is the variable.
 
 - **Solving Linear Equations:** Practice solving simple linear equations, including those with one variable and those involving fractions or decimals.
 
 - **Linear Inequalities:** Extend your knowledge to linear inequalities, where the relationship between variables is not strict equality but rather "greater than," "less than," "greater than or equal to," or "less than or equal to."
 
-- **Graphing Linear Equations:** Explore how to graph linear equations on the coordinate plane, gaining insights into slope-intercept form (\(y = mx + b\)) and its significance.
+- **Graphing Linear Equations:** Explore how to graph linear equations on the coordinate plane, gaining insights into slope-intercept form ($y = mx + b$) and its significance.
 
 Linear equations are fundamental to understanding various real-world situations, from budgeting and financial planning to interpreting trends in data and business applications.
 
 ### b. Quadratic Equations
 
-Quadratic equations introduce a new level of complexity to algebra. They involve variables squared (\(x^2\)) and open doors to parabolic curves and multiple solution scenarios. Here's how to dive into quadratic equations:
+Quadratic equations introduce a new level of complexity to algebra. They involve variables squared ($x^2$) and open doors to parabolic curves and multiple solution scenarios. Here's how to dive into quadratic equations:
 
-- **Understanding Quadratic Equations:** Learn what quadratic equations are and how they are expressed in the form of \(ax^2 + bx + c = 0\).
+- **Understanding Quadratic Equations:** Learn what quadratic equations are and how they are expressed in the form of $ax^2 + bx + c = 0$.
 
 - **Solving Quadratic Equations:** Practice solving quadratic equations using methods such as factoring, completing the square, and the quadratic formula.
 
-- **Discriminant:** Understand the discriminant (\(b^2 - 4ac\)) and how it helps determine the nature of the solutions (real, complex, or repeated) for a quadratic equation.
+- **Discriminant:** Understand the discriminant ($b^2 - 4ac$) and how it helps determine the nature of the solutions (real, complex, or repeated) for a quadratic equation.
 
 - **Graphing Quadratic Functions:** Explore the graphical representation of quadratic functions and how to identify the vertex, axis of symmetry, and other key features.
 
@@ -194,7 +194,7 @@ Begin your exploration of geometry by delving into its fundamental concepts:
 
 The Pythagorean theorem is a fundamental principle in geometry that relates to the sides of right triangles. Here's how to grasp this important concept:
 
-- **Pythagorean Theorem Statement:** Understand the theorem, which states that in a right triangle, the square of the length of the hypotenuse (\(c\)) is equal to the sum of the squares of the lengths of the other two sides (\(a\) and \(b\)), expressed as \(c^2 = a^2 + b^2\).
+- **Pythagorean Theorem Statement:** Understand the theorem, which states that in a right triangle, the square of the length of the hypotenuse ($c$) is equal to the sum of the squares of the lengths of the other two sides ($a$ and $b$), expressed as $c^2 = a^2 + b^2$.
 
 - **Applications:** Explore real-world applications of the Pythagorean theorem, such as calculating distances, finding the lengths of sides in right triangles, and understanding geometric relationships.
 

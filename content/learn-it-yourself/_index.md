@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: 💻 Learn it yourself
-linktitle: 💻 Learn it yourself
+title: ✍️ Learn it yourself
+linktitle: ✍️ Learn it yourself
 summary: The value of self-learning lies in its ability to empower individuals to acquire knowledge and skills independently, fostering personal growth, adaptability, and lifelong learning.
 weight: 1
 # icon: computer

@@ -1,5 +1,5 @@
 ---
-title: ✍️ Des Notes pour apprendre la Data Science
+title: ✍️ Apprendre la Data Science
 date: 2022-09-24
 toc: false
 

@@ -1,3 +1,13 @@
+---
+title: Resources
+linktitle:  A comprehensive list of 10 online resources
+date: '2019-05-05T00:00:00+01:00'
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
+---
+
+
 Here is a comprehensive list of 10 online resources, including free and paid courses, tutorials, and blogs, for learning study skills:
 
 1. Udemy: Udemy offers a variety of study skills courses taught by top-rated instructors. Their courses cover topics such as speed reading, time management, and effective note-taking. [1](https://www.udemy.com/topic/study-skills/)

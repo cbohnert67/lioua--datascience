@@ -15,42 +15,42 @@ So, take the first step towards computational thinking and programming by explor
 
 1. Scratch: Scratch is a free coding platform that promotes computational thinking, problem-solving skills, creativity, and collaboration. It allows students to create digital stories, games, and animations.
 
-   [Scratch](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
+   ➡️ [Scratch](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
 
 2. Kodable: Kodable provides teachers with a complete K-5 curriculum to implement in the classroom, helping students solve problems, work with a partner, and develop their creativity. It offers instruction guidance and materials to learn programming languages.
 
-   [Kodable](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
+   ➡️ [Kodable](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
 
 3. Ozobot: Ozobot is an online tool that allows students to code robots, helping them learn robotics, math, and programming through visual codes. It offers instructional video lessons and integrates multiple subjects.
 
-   [Ozobot](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
+   ➡️ [Ozobot](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
 
 4. Roblox: Roblox is a design tool that allows students to produce their own immersive multiplayer experience. It offers free software and curriculum to teach computer science and entrepreneurship.
 
-   [Roblox](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
+   ➡️ [Roblox](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
 
 5. MIT Full STEAM Ahead: MIT Full STEAM Ahead provides online and offline activity resources, STEAM-related resources, and complete MIT courses for K-12 and Higher Education students.
 
-    [MIT Full STEAM Ahead](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
+    ➡️ [MIT Full STEAM Ahead](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
 
 6. Minecraft: Minecraft is a game-based world that promotes computational thinking with in-game coding. It offers hundreds of lessons created by educators around the world.
 
-    [Minecraft](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
+    ➡️ [Minecraft](https://www.cypherlearning.com/blog/k-20/6-digital-tools-that-encourage-computational-thinking).
 
 7. Codecademy: Codecademy offers courses in multiple programming languages, including HTML, CSS, JavaScript, Python, Ruby, and PHP.
 
-     [Codecademy](https://www.monster.com/career-advice/article/learn-how-to-code-online).
+     ➡️ [Codecademy](https://www.monster.com/career-advice/article/learn-how-to-code-online).
 
 8. Coursera/edX: Coursera and edX offer computer science courses from top universities around the world, with a wide range of programming courses.
 
-    [Coursera/edX](https://www.monster.com/career-advice/article/learn-how-to-code-online).
+    ➡️ [Coursera/edX](https://www.monster.com/career-advice/article/learn-how-to-code-online).
 
 9. Treehouse: Treehouse offers over 100 courses across various topics, including HTML, CSS, JavaScript, and design. They provide video-based teaching and interactive quizzes.
 
-    [Treehouse](https://www.monster.com/career-advice/article/learn-how-to-code-online).
+    ➡️ [Treehouse](https://www.monster.com/career-advice/article/learn-how-to-code-online).
 
 10. Udacity: Udacity offers Nanodegree programs in fields like web development, data analysis, programming, and more, developed in collaboration with industry partners.
 
-    [Udacity](https://www.monster.com/career-advice/article/learn-how-to-code-online).
+    ➡️ [Udacity](https://www.monster.com/career-advice/article/learn-how-to-code-online).
 
 These resources offer comprehensive materials, lesson plans, and strategies to learn computational thinking and programming. Whether you prefer free or paid courses, tutorials, or hands-on exercises, there is an option that suits your learning style and goals.

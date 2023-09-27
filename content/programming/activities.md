@@ -1,3 +1,12 @@
+---
+title: 🛠️ Activity ideas for improving your Computational Thinking and Programming
+linktitle:  Activity Ideas
+date: '2019-05-05T00:00:00+01:00'
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 3
+---
+
 Prepare to embark on an exhilarating journey towards mastering the art of data science. Within these activity ideas, you will uncover a structured roadmap that leads you through the fascinating realms of computational thinking, programming, and data analysis. These activity ideas are not just tasks; they are stepping stones towards transforming you into a proficient data scientist. From the intricate world of algorithms to the art of creating compelling data visualizations, each activity idea is a chance to hone your skills and unlock your potential in the dynamic universe of data science. As you dive into these engaging challenges, keep in mind that every conquered obstacle and each spark of insight will propel you further on your path to becoming an unstoppable force in the world of data science.
 
 **Part 1: Understanding Computational Thinking**

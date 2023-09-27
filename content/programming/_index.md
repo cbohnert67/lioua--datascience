@@ -3,7 +3,7 @@
 title: 💻 Computational Thinking
 linktitle: 💻 Computational Thinking
 summary: Computational thinking is a problem-solving approach that involves breaking down complex tasks into manageable steps, while programming is the practical implementation of these steps using a programming language to automate processes and solve real-world problems.
-weight: 1
+weight: 3
 # icon: book
 # icon_pack: fas
 

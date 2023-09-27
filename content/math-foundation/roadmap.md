@@ -120,7 +120,7 @@ Algebra is a foundational branch of mathematics that introduces you to the world
 
 *B. Solve Linear Equations*
 
-   - **Linear Equations:** Study linear equations in one variable, such as $ax + b = c$, where $a$, $b$, and c$ are constants.
+   - **Linear Equations:** Study linear equations in one variable, such as $ax + b = c$, where $a$, $b$, and $c$ are constants.
    
    - **Solving Equations:** Learn techniques for solving linear equations, including isolating the variable on one side of the equation.
    

@@ -3,7 +3,7 @@
 title: 🧮 Foundational Mathematics
 linktitle: 🧮 Foundational Mathematics
 summary: Foundational math encompasses the fundamental principles and concepts of arithmetic, algebra, geometry, and statistics that serve as the building blocks for more advanced mathematical and scientific disciplines.
-weight: 1
+weight: 2
 # icon: book
 # icon_pack: fas
 

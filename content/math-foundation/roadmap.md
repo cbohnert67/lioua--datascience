@@ -13,7 +13,7 @@ Embarking on a journey to master foundational mathematics is akin to building a 
 
 Before you dive into the world of foundational mathematics, it's crucial to lay a strong groundwork for your learning journey. This section will guide you through the essential steps to prepare yourself effectively.
 
-A. Set Clear Goals
+*A. Set Clear Goals*
 
 Begin your journey by setting clear and specific goals for your mathematical learning. Knowing why you want to acquire foundational math skills will provide you with a sense of purpose and direction. Your goals could include:
 
@@ -25,7 +25,7 @@ Begin your journey by setting clear and specific goals for your mathematical lea
 
 Whatever your goals may be, write them down and make them as specific and measurable as possible. This will help you stay motivated and focused throughout your journey.
 
-B. Assess Your Current Knowledge
+*B. Assess Your Current Knowledge*
 
 Now that you have defined your goals, it's time to take stock of your current mathematical knowledge. An initial assessment serves as a compass, guiding you to the areas where you need the most improvement. Here's how you can assess your current math skills:
 
@@ -39,7 +39,7 @@ Now that you have defined your goals, it's time to take stock of your current ma
 
 Recording your assessment results will help you identify your strengths and pinpoint the areas that require the most attention during your study journey.
 
-C. Select Learning Resources
+*C. Select Learning Resources*
 
 Choosing the right learning resources is crucial for effective self-study. The selection should align with your goals and cater to your preferred learning style. Here are some resource options to consider:
 
@@ -55,7 +55,7 @@ Choosing the right learning resources is crucial for effective self-study. The s
 
 When selecting resources, don't hesitate to mix and match. You might find that a combination of textbooks, online courses, and video tutorials works best for you. The key is to make sure they cover the topics you need to learn.
 
-D. Establish a Study Schedule
+*D. Establish a Study Schedule*
 
 Consistency is the cornerstone of successful learning. To stay on track, create a well-structured study schedule that fits your daily routine. Here's how to go about it:
 
@@ -75,7 +75,7 @@ Remember, the key is to find a study routine that suits your lifestyle and enabl
 
 In this segment, you'll explore the essential concepts of arithmetic and numbers, laying the groundwork for more advanced mathematical topics. Mastering arithmetic is crucial as it forms the basis for solving a wide range of mathematical problems and real-world situations.
 
-A. Master Basic Arithmetic
+*A. Master Basic Arithmetic*
 
    - **Review Basic Operations:** Refresh your understanding of addition, subtraction, multiplication, and division. Ensure you can perform these operations quickly and accurately.
 
@@ -85,7 +85,7 @@ A. Master Basic Arithmetic
 
    - **Arithmetic with Fractions:** Understand how to add, subtract, multiply, and divide fractions. Practice converting between fractions and decimals.
 
-B. Explore Number Properties
+*B. Explore Number Properties*
 
    - **Number Classifications:** Study different classifications of numbers, such as even, odd, prime, composite, rational, irrational, and real numbers. Understand the properties associated with each classification.
 
@@ -95,7 +95,7 @@ B. Explore Number Properties
 
    - **Factors and Multiples:** Explore factors (numbers that divide another number without a remainder) and multiples (numbers that are products of a given number).
 
-C. Solve Word Problems
+*C. Solve Word Problems*
 
    - **Real-World Applications:** Apply your arithmetic skills to solve a variety of real-world problems. These problems could involve topics like budgeting, recipe adjustments, travel distances, and more.
 
@@ -106,11 +106,11 @@ C. Solve Word Problems
 As you progress through this section, ensure that you have a firm grasp of basic arithmetic concepts and the ability to apply them in various contexts. A strong foundation in arithmetic is essential for success in more advanced mathematical topics, including algebra and beyond.
 
 
-## 3. Move to Beginning Algebra
+## III. Move to Beginning Algebra
 
 Algebra is a foundational branch of mathematics that introduces you to the world of variables, equations, and abstract problem-solving. It forms the bridge between basic arithmetic and more advanced mathematical concepts. In this section, you'll embark on your journey into beginning algebra.
 
-A. Understand Algebraic Expressions
+*A. Understand Algebraic Expressions*
 
    - **Variables and Constants:** Learn the distinction between variables (letters or symbols representing unknown values) and constants (fixed numerical values).
    
@@ -118,7 +118,7 @@ A. Understand Algebraic Expressions
 
    - **Substitution:** Practice substituting numerical values for variables and vice versa to evaluate expressions.
 
-B. Solve Linear Equations
+*B. Solve Linear Equations*
 
    - **Linear Equations:** Study linear equations in one variable, such as $ax + b = c$, where $a$, $b$, and c$ are constants.
    
@@ -126,7 +126,7 @@ B. Solve Linear Equations
    
    - **Inequalities:** Explore linear inequalities (e.g., $ax + b > c$) and their solutions.
 
-C. Grasp Basic Algebraic Operations
+*C. Grasp Basic Algebraic Operations*
 
    - **Addition and Subtraction:** Extend your algebraic skills to include addition and subtraction of algebraic expressions.
    
@@ -134,13 +134,13 @@ C. Grasp Basic Algebraic Operations
    
    - **Properties of Exponents:** Understand and apply the properties of exponents, including the product rule and power rule.
 
-D. Word Problems and Applications
+*D. Word Problems and Applications*
 
    - **Translate Word Problems:** Practice translating real-world scenarios into algebraic equations and expressions.
    
    - **Solve Algebraic Word Problems:** Apply your algebraic skills to solve word problems involving linear equations and inequalities.
 
-E. Practice and Problem Sets
+*E. Practice and Problem Sets*
 
    - **Exercise Sets:** Utilize textbooks, online courses, or algebra-focused resources that provide a variety of exercises and problem sets.
    
@@ -152,7 +152,7 @@ Beginning algebra serves as a fundamental stepping stone in mathematics, helping
 
 Geometry is a branch of mathematics that studies the properties and relationships of shapes, sizes, and dimensions. In this section, you'll dive into basic geometry, which forms the foundation for more complex geometric concepts.
 
-A. Study Geometric Shapes and Figures
+*A. Study Geometric Shapes and Figures*
 
     - **Points and Lines:** Understand the basic building blocks of geometry: points and lines. Learn how they form the foundation for more complex shapes.
    
@@ -164,7 +164,7 @@ A. Study Geometric Shapes and Figures
 
    - **Congruence and Similarity:** Understand the concepts of congruent (identically shaped and sized) and similar (proportional) geometric figures.
 
-B. Pythagorean Theorem
+*B. Pythagorean Theorem*
 
    - **The Pythagorean Theorem:** Learn about the Pythagorean theorem, which states that in a right triangle, the square of the length of the hypotenuse ($c$) is equal to the sum of the squares of the lengths of the other two sides ($a$ and $b$), expressed as $c^2 = a^2 + b^2$.
 
@@ -172,7 +172,7 @@ B. Pythagorean Theorem
 
    - **Proofs and Variations:** Study different proofs of the Pythagorean theorem and variations of the theorem in non-Euclidean geometry.
 
-C. Calculate Areas and Volumes
+*C. Calculate Areas and Volumes*
 
    - **Area Calculations:** Learn how to calculate the areas of common two-dimensional shapes such as rectangles, squares, triangles, circles, and parallelograms.
    
@@ -188,7 +188,7 @@ Geometry plays a fundamental role in various fields, from architecture and engin
 
 Trigonometry is the study of the relationships between the angles and sides of triangles, and it plays a crucial role in various fields such as physics, engineering, and navigation. In this section, you'll explore the fundamental concepts of trigonometry, preparing you for more advanced mathematical topics.
 
-A. Understand Trigonometric Functions
+*A. Understand Trigonometric Functions*
 
    - **Introduction to Trigonometry:** Familiarize yourself with the basic concepts of trigonometry, including angles, degrees, and radians.
 
@@ -198,7 +198,7 @@ A. Understand Trigonometric Functions
 
    - **Unit Circle:** Understand the unit circle and how it relates to trigonometric functions.
 
-B. Solve Right Triangles
+*B. Solve Right Triangles*
 
    - **Applications of Trigonometry:** Apply trigonometric functions to solve problems involving right triangles.
    
@@ -206,7 +206,7 @@ B. Solve Right Triangles
 
    - **Inverse Trigonometric Functions:** Introduce inverse trigonometric functions $sin^{-1}$, $cos^{-1}$, $tan^{-1}$ and their applications.
 
-C. Explore Trigonometric Identities
+*C. Explore Trigonometric Identities*
 
    - **Basic Identities:** Study fundamental trigonometric identities such as the Pythagorean identities and reciprocal identities.
    
@@ -214,7 +214,7 @@ C. Explore Trigonometric Identities
 
    - **Applications:** Understand how trigonometric identities are applied in solving real-world problems, including physics and engineering applications.
 
-D. Coordinate Systems and Trigonometry
+*D. Coordinate Systems and Trigonometry*
 
    - **Trigonometry in the Cartesian Plane:** Explore how trigonometric functions can be used to describe the relationships between angles and coordinates in the Cartesian plane.
 
@@ -222,7 +222,7 @@ D. Coordinate Systems and Trigonometry
 
    - **Phase Shift and Amplitude:** Understand concepts like phase shift and amplitude in trigonometric graphs.
 
-E. Practice and Problem Sets
+*E. Practice and Problem Sets*
 
    - **Trigonometric Problems:** Practice solving trigonometric problems, including applications in physics, engineering, and geometry.
    
@@ -234,7 +234,7 @@ Trigonometry serves as a bridge between geometry and calculus and plays a critic
 
 Precalculus serves as a preparatory course for calculus and covers advanced algebra, trigonometry, and additional mathematical concepts. In this section, you'll delve into precalculus topics, which are essential for those planning to pursue higher-level mathematics or science courses.
 
-A. Study Functions and Their Properties
+*A. Study Functions and Their Properties*
 
    - **Introduction to Functions:** Understand what functions are and how they relate inputs (domain) to outputs (range).
 
@@ -244,7 +244,7 @@ A. Study Functions and Their Properties
 
    - **Function Notation:** Become familiar with function notation (e.g., $f(x)$) and how it represents mathematical relationships.
 
-B. Analyze Exponential and Logarithmic Functions
+*B. Analyze Exponential and Logarithmic Functions*
 
    - **Exponential Functions:** Explore exponential growth and decay functions and their characteristics.
 
@@ -252,7 +252,7 @@ B. Analyze Exponential and Logarithmic Functions
 
    - **Exponential and Logarithmic Equations:** Solve equations involving exponential and logarithmic functions.
 
-C. Introduce Limits and Continuity
+*C. Introduce Limits and Continuity*
 
    - **Concept of Limits:** Understand the concept of limits and how they describe the behavior of functions as they approach specific values.
 
@@ -262,7 +262,7 @@ C. Introduce Limits and Continuity
 
    - **Introduction to Calculus:** Recognize that precalculus serves as a foundation for calculus, which deals with rates of change and derivatives.
 
-D. Advanced Algebraic Concepts
+*D. Advanced Algebraic Concepts*
 
    - **Polynomial Functions:** Review and deepen your understanding of polynomial functions, including their properties and behavior.
 
@@ -272,7 +272,7 @@ D. Advanced Algebraic Concepts
 
    - **Complex Numbers:** Introduce complex numbers, which extend the set of real numbers and involve the imaginary unit $i$.
 
-E. Practice and Problem Sets
+*E. Practice and Problem Sets*
 
    - **Exercise Sets:** Utilize textbooks, online courses, or precalculus-focused resources that provide exercises and problem sets to reinforce your understanding.
 

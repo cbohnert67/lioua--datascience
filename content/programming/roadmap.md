@@ -1,4 +1,11 @@
+---
+title: 🗺️ A roadmap for Computational Thinking and Programming
+linktitle:  Roadmap
+date: '2019-05-05T00:00:00+01:00'
 
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
+---
 
 Welcome to your roadmap for learning computational thinking and getting an introduction to programming as an aspiring data scientist. Computational thinking is the backbone of data science, enabling you to approach complex problems with structured and analytical solutions. Programming is the practical toolkit that allows you to bring these solutions to life through data analysis and manipulation. Whether you're a beginner or have some prior experience, this roadmap will guide you through the essential steps to build a strong foundation in computational thinking and programming for data science. Get ready to embark on an exciting journey of discovery and data-driven problem-solving.
 

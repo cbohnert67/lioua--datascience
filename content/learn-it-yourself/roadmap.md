@@ -13,15 +13,15 @@ Embarking on a journey of independent learning is a powerful endeavor that empow
 
 ## I. Introduction
 
-A. **Importance of Independent Learning:**
+*A. Importance of Independent Learning:*
 
 Independent learning is a cornerstone of personal and professional development. It empowers individuals to take control of their education, allowing them to explore their passions and curiosities without the constraints of traditional classroom settings. In an ever-evolving world, the ability to self-educate is paramount, enabling individuals to adapt, upskill, and thrive in rapidly changing environments. Independent learning fosters self-reliance, critical thinking, and a hunger for knowledge, making it an indispensable skill for a lifetime of growth and success.
 
-B. **Benefits of Self-Directed Learning:**
+*B. Benefits of Self-Directed Learning:*
 
 Self-directed learning is a transformative journey that offers a multitude of advantages. It allows individuals to tailor their learning experience to their unique needs and interests, making education a deeply personal and fulfilling endeavor. It cultivates traits such as discipline, time management, and self-motivation, which are valuable not only in learning but also in all aspects of life. Furthermore, self-directed learners often find themselves better equipped to tackle real-world challenges, adapt to new situations, and become lifelong learners who continually seek knowledge and self-improvement.
 
-C. **Setting Clear Goals:**
+*C. Setting Clear Goals:*
 
 Setting clear goals is the compass that guides the journey of independent learning. It provides direction and purpose to your efforts, ensuring that you stay on track and make meaningful progress. Whether it's mastering a new skill, completing a project, or pursuing a lifelong passion, well-defined goals serve as milestones that mark your accomplishments. They inspire motivation, focus your efforts, and offer a sense of achievement when attained. In the world of independent learning, setting clear goals is the first step toward realizing your aspirations and unlocking your full potential.
 

@@ -1,16 +1,4 @@
----
-# Title, summary, and page position.
-title: 💻 Computational Thinking
-linktitle: 💻 Computational Thinking
-summary: Computational thinking is a problem-solving approach that involves breaking down complex tasks into manageable steps, while programming is the practical implementation of these steps using a programming language to automate processes and solve real-world problems.
-weight: 1
-# icon: book
-# icon_pack: fas
 
-# Page metadata.
-date: '2018-09-09T00:00:00Z'
-toc: false
----
 
 Welcome to your roadmap for learning computational thinking and getting an introduction to programming as an aspiring data scientist. Computational thinking is the backbone of data science, enabling you to approach complex problems with structured and analytical solutions. Programming is the practical toolkit that allows you to bring these solutions to life through data analysis and manipulation. Whether you're a beginner or have some prior experience, this roadmap will guide you through the essential steps to build a strong foundation in computational thinking and programming for data science. Get ready to embark on an exciting journey of discovery and data-driven problem-solving.
 
